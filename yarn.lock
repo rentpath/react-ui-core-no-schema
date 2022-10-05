@@ -118,6 +118,12 @@
     eslint-plugin-jsx-a11y "^6.0.2"
     eslint-plugin-react "^7.3.0"
 
+"@rentpath/react-ui-utils@4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@rentpath/react-ui-utils/-/react-ui-utils-4.0.1.tgz#86011b645ab7840a1b268e594a64fd9e9aef9a05"
+  dependencies:
+    classnames "2.2.5"
+
 "@types/node@*":
   version "10.3.4"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.3.4.tgz#c74e8aec19e555df44609b8057311052a2c84d9e"
@@ -1492,8 +1498,8 @@ css-selector-tokenizer@^0.7.0:
     regexpu-core "^1.0.0"
 
 css-what@2.1:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/css-what/-/css-what-2.1.0.tgz#9467d032c38cfaefb9f2d79501253062f87fa1bd"
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/css-what/-/css-what-2.1.3.tgz#a6d7604573365fe74686c3f311c56513d88285f2"
 
 cssesc@^0.1.0:
   version "0.1.0"
